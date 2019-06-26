@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/maktabkhoone-resume/static/css/main.f4d6a06e.chunk.css",
-    "main.js": "/maktabkhoone-resume/static/js/main.b4a9a9b9.chunk.js",
-    "main.js.map": "/maktabkhoone-resume/static/js/main.b4a9a9b9.chunk.js.map",
+    "main.css": "/maktabkhoone-resume/static/css/main.cee66858.chunk.css",
+    "main.js": "/maktabkhoone-resume/static/js/main.2bd8afa3.chunk.js",
+    "main.js.map": "/maktabkhoone-resume/static/js/main.2bd8afa3.chunk.js.map",
     "runtime~main.js": "/maktabkhoone-resume/static/js/runtime~main.65c4976a.js",
     "runtime~main.js.map": "/maktabkhoone-resume/static/js/runtime~main.65c4976a.js.map",
-    "static/js/2.33655aa9.chunk.js": "/maktabkhoone-resume/static/js/2.33655aa9.chunk.js",
-    "static/js/2.33655aa9.chunk.js.map": "/maktabkhoone-resume/static/js/2.33655aa9.chunk.js.map",
+    "static/js/2.90c80049.chunk.js": "/maktabkhoone-resume/static/js/2.90c80049.chunk.js",
+    "static/js/2.90c80049.chunk.js.map": "/maktabkhoone-resume/static/js/2.90c80049.chunk.js.map",
     "index.html": "/maktabkhoone-resume/index.html",
-    "precache-manifest.f9925731f13c9c1b4055451d778f801f.js": "/maktabkhoone-resume/precache-manifest.f9925731f13c9c1b4055451d778f801f.js",
+    "precache-manifest.8392053d156c4d637f71b8459c7feaf7.js": "/maktabkhoone-resume/precache-manifest.8392053d156c4d637f71b8459c7feaf7.js",
     "service-worker.js": "/maktabkhoone-resume/service-worker.js",
-    "static/css/main.f4d6a06e.chunk.css.map": "/maktabkhoone-resume/static/css/main.f4d6a06e.chunk.css.map"
+    "static/css/main.cee66858.chunk.css.map": "/maktabkhoone-resume/static/css/main.cee66858.chunk.css.map"
   }
 }

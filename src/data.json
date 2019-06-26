@@ -1,0 +1,56 @@
+{
+    "title": "I am Pouyan Farzad",
+    "subtitle": "C++ | JAVA | HTML | CSS | Security | Cryptography",
+    "links": {
+        "Linkedin": "https://ir.linkedin.com/in/pouyan-farzad-68746189",
+        "instagram": "https://www.instagram.com/pouyan_farzad/",
+        "github": "https://github.com/pouyanfarzad"
+    },
+    "sections": [
+        {
+            "title": "About",
+            "items": [
+                {
+                    "type": "p",
+                    "content": "Experienced Chief Technology Officer with a demonstrated history of working in the computer and network security industry. Skilled in PHP, C++, FreeBSD, Mathematics, and Java. Information technology professional with a Master's Degree focused in Applied Mathematics from Sharif University of Technology."
+                }
+            ]
+        },
+        {
+            "title": "Skills",
+            "items": [
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/react.png",
+                        "title": "React"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/html.svg",
+                        "title": "HTML"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/java.svg",
+                        "title": "java"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/javascript.png",
+                        "title": "javascript"
+                    }
+                }
+            ]
+        }
+    ],
+    "icons":{
+        "down": "images/down2.png"
+    }
+}

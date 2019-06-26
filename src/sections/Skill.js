@@ -1,9 +1,6 @@
 import React, { Component } from "react";
-import Fullpage from "../sections/FullPage";
+import Fullpage from "../components/FullPage";
 import data from "../data.json";
-
-
-import "./FullPage.css";
 
 class Skill extends Component {
   render() {

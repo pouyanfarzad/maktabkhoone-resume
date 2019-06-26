@@ -1,152 +1,125 @@
 html {
-    scroll-behavior: smooth;
-  }
-
-.fullpage{
-    height: 100vh;
-    width: 100vw;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+  scroll-behavior: smooth;
 }
 
-.first{
-    color: white;
+.first a {
+  margin: 10px !important;
 }
 
-.first a{
-    margin: 10px !important;
+.intro {
+  line-height: 2.3em;
+  padding: 5px;
+  width: 70%;
+  text-align: justify;
+  text-justify: inter-word;
 }
 
-.second{
-    background: #ffff50;
+.icon-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
 }
 
-.intro{
-    line-height: 2.3em;
-    padding: 5px;
-    width: 70%;
-    text-align: justify;
-    text-justify: inter-word;
+.icon {
+  margin: 10px;
 }
 
-.third{
-    background-color: gray;
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  height: 200px;
+  width: 120px;
+  background-color: white;
+  margin: 10px;
+  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+  float: left;
 }
 
-.icon-wrapper{
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
+.image-wrapper {
+  width: 110px;
+  height: 90px;
+  text-align: center;
+  padding: 5px;
 }
 
-.icon{
-    margin: 10px;
+img {
+  max-width: 100%;
+  max-height: 100%;
 }
 
-.card{
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    justify-content: center;
-    height: 200px;
-    width: 120px;
-    background-color: white;
-    margin: 10px;
-    transition: all 0.3s cubic-bezier(0.25, .8, .25, 1);
-    float: left;
+.skill-title-wrapper {
+  padding: 5px;
+  height: 100px;
+  width: 110px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  text-align: -webkit-center;
 }
 
-.image-wrapper{
-    width: 110px;
-    height: 90px;
-    text-align: center;
-    padding: 5px;
+.card:hover {
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.25);
 }
 
-img{
-    max-width: 100%;
-    max-height: 100%;
+.social-svg-mask {
+  fill: #99d2ff !important;
 }
 
-.skill-title-wrapper{
-    padding: 5px;
-    height: 100px;
-    width: 110px;
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    justify-content: center;
-    text-align: -webkit-center;
+.socialIcon {
+  margin-top: 40px !important;
 }
 
-.card:hover{
-    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.25);
+.profile {
+  width: 150px;
+  border-radius: 50%;
 }
 
-.social-svg-mask{
-    fill: #99d2ff !important;
-}
-
-.socialIcon{
-    margin-top: 40px !important;
-}
-
-.profile{
-    width: 150px;
-    border-radius: 30%;
-}
-
-.right{
-    float: right !important;
+.right {
+  float: right !important;
 }
 
 .navbar {
-    overflow: hidden;
-    background-color: #adb3c544;
-    position: fixed;
-    top: 0;
-    width: 100%;
-  }
-  
-  .navbar a {
-    float: left;
-    display: block;
-    color: #f2f2f2;
-    text-align: center;
-    padding: 10px 16px;
-    text-decoration: none;
-    font-size: 14px;
-  }
-  
-  .navbar a:hover {
-    background: #ddd;
-    color: black;
-  }
-  
- .style1{
-    background-color:red;
-    color:white;
-    font-size:44px;
+  overflow: hidden;
+  background-color: #adb3c544;
+  position: fixed;
+  top: 0;
+  width: 100%;
 }
 
-.wizard{
-    width: 30px;
-    float: left;
+.navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 10px 16px;
+  text-decoration: none;
+  font-size: 14px;
 }
 
-.caption{
-    float: left;
-    clear: both;
-    font-size: 10px !important;
-    color: white;
+.navbar a:hover {
+  background: #ddd;
+  color: black;
 }
 
-.box{
-    float: left;
-    clear: both;
-    padding-left: 15px;
-    cursor: pointer;
+.wizard {
+  width: 25px;
+  float: left;
+}
+
+.caption {
+  float: left;
+  clear: both;
+  font-size: 10px !important;
+  color: white;
+}
+
+.box {
+  float: left;
+  clear: both;
+  padding-left: 15px;
+  cursor: pointer;
 }

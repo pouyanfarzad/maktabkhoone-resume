@@ -43,6 +43,13 @@
                 {
                     "type": "card",
                     "content": {
+                        "image": "images/cplus.svg",
+                        "title": "C++"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
                         "image": "images/javascript.png",
                         "title": "javascript"
                     }

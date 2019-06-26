@@ -1,10 +1,9 @@
 import React, { Component } from "react";
-import Fullpage from "../sections/FullPage";
-import data from "../data.json";
-import { SocialIcon } from "react-social-icons";
-import "./FullPage.css";
-import DownIcon from "../components/downIcon";
 import { Link, Element } from "react-scroll";
+import { SocialIcon } from "react-social-icons";
+import Fullpage from "../components/FullPage";
+import data from "../data.json";
+import DownIcon from "../components/downIcon";
 
 class Intro extends Component {
   render() {
